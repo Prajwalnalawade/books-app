@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".pdfActivitye10"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye9"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye8"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye7"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye6"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye5"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitye1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd10"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd9"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd8"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd7"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd6"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd5"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityd1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc10"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc9"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc8"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc7"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc6"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc5"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityc1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb10"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb9"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb8"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb7"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb6"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb5"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivityb1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitya4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitya3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitya2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitya1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivitya"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".pdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".THRILLER"
+            android:exported="false" />
+        <activity
+            android:name=".COMICS"
+            android:exported="false" />
+        <activity
+            android:name=".HORROR"
+            android:exported="false" />
+        <activity
+            android:name=".COMEDY"
+            android:exported="false" />
+        <activity
+            android:name=".NOVELS"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
